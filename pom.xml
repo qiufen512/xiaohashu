@@ -16,6 +16,8 @@
 
     <!-- 子模块管理 -->
     <modules>
+        <module>xiaohashu-auth</module>
+        <module>xiaoha-framework</module>
     </modules>
 
     <properties>
@@ -65,6 +67,12 @@
                 <version>${spring-cloud.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
+            </dependency>
+
+            <dependency>
+                <groupId>com.qiufen</groupId>
+                <artifactId>xiaoha-common</artifactId>
+                <version>0.0.1-SNAPSHOT</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
