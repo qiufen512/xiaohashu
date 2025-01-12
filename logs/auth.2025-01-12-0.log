@@ -1,0 +1,31 @@
+2025-01-12 11:26:24.908 [main] INFO  c.qiufen.xiaohashu.auth.XiaohashuAuthApplication - Starting XiaohashuAuthApplication using Java 17.0.8 with PID 11468 (D:\javaworkspace\xiaohashu\xiaohashu-auth\target\classes started by 达达尼昂 in D:\javaworkspace\xiaohashu)
+2025-01-12 11:26:24.910 [main] INFO  c.qiufen.xiaohashu.auth.XiaohashuAuthApplication - The following 1 profile is active: "dev"
+2025-01-12 11:26:25.876 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-01-12 11:26:25.885 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2025-01-12 11:26:25.885 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2025-01-12 11:26:25.952 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-01-12 11:26:25.953 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1004 ms
+2025-01-12 11:26:26.363 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-01-12 11:26:26.643 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-01-12 11:26:26.939 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-01-12 11:26:26.947 [main] INFO  c.qiufen.xiaohashu.auth.XiaohashuAuthApplication - Started XiaohashuAuthApplication in 2.508 seconds (process running for 2.926)
+2025-01-12 13:22:37.012 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-01-12 13:22:37.013 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2025-01-12 16:28:31.218 [main] INFO  c.qiufen.xiaohashu.auth.XiaohashuAuthApplication - Starting XiaohashuAuthApplication using Java 17.0.8 with PID 24476 (D:\javaworkspace\xiaohashu\xiaohashu-auth\target\classes started by 达达尼昂 in D:\javaworkspace\xiaohashu)
+2025-01-12 16:28:31.220 [main] INFO  c.qiufen.xiaohashu.auth.XiaohashuAuthApplication - The following 1 profile is active: "dev"
+2025-01-12 16:28:32.166 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-01-12 16:28:32.175 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2025-01-12 16:28:32.175 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2025-01-12 16:28:32.242 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-01-12 16:28:32.242 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 978 ms
+2025-01-12 16:28:32.588 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-01-12 16:28:32.831 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-01-12 16:28:33.096 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-01-12 16:28:33.103 [main] INFO  c.qiufen.xiaohashu.auth.XiaohashuAuthApplication - Started XiaohashuAuthApplication in 2.44 seconds (process running for 2.957)
+2025-01-12 16:28:42.387 [http-nio-8080-exec-3] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-12 16:28:42.387 [http-nio-8080-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-01-12 16:28:42.388 [http-nio-8080-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-01-12 16:28:42.479 [http-nio-8080-exec-3] INFO  c.q.f.b.operationlog.aspect.ApiOperationLogAspect - ====== 请求开始: [测试接口3], 入参: {"nickName":"qiufen","createTime":"2025-01-12 12:00:00"}, 请求类: TestController, 请求方法: test3 =================================== 
+2025-01-12 16:28:42.483 [http-nio-8080-exec-3] INFO  c.q.f.b.operationlog.aspect.ApiOperationLogAspect - ====== 请求结束: [测试接口3], 耗时: 10ms, 出参: {"success":true,"message":null,"errorCode":null,"data":{"nickName":"qiufen","createTime":"2025-01-12 12:00:00"}} =================================== 
+2025-01-12 16:28:53.068 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-01-12 16:28:53.075 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed

@@ -21,6 +21,7 @@
     <modules>
         <module>xiaoha-common</module>
         <module>xiaoha-spring-starter-biz-operationlog</module>
+        <module>xiaoha-spring-boot-starter-jacksonconfig</module>
     </modules>
 
 </project>

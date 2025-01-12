@@ -7,8 +7,12 @@
     <file url="file://$PROJECT_DIR$/xiaoha-framework/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xiaoha-framework/xiaoha-common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xiaoha-framework/xiaoha-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xiaoha-framework/xiaoha-spring-boot-starter-jacksonconfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xiaoha-framework/xiaoha-spring-boot-starter-jacksonconfig/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xiaoha-framework/xiaoha-spring-starter-biz-operationlog/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xiaoha-framework/xiaoha-spring-starter-biz-operationlog/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xiaoha-framework/xiaoha-spring-starter-jacksonconfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xiaoha-framework/xiaoha-spring-starter-jacksonconfig/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xiaohashu-auth/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xiaohashu-auth/src/main/resources" charset="UTF-8" />
   </component>
